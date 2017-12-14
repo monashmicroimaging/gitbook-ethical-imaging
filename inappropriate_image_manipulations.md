@@ -74,8 +74,9 @@ But, looking closer, we see two regions that appear to have been inappropriately
 
 ![](/assets/images/ACS_Nano_image_manipulation.jpg)
 
-Source: Chemistry Blog article by Mitch, 13th August 2013.  
-[‘Alleged Data Manipulation in Nano Letters and ACS Nano from the Pease group’](http://www.chemistry-blog.com/2013/08/13/alleged-data-manipulation-in-nano-letters-and-acs-nano-from-the-pease-group/)
+Reprinted \(adapted\) with permission from Anumolu _et al._ 'Fabrication of Highly Uniform Nanoparticles from Recombinant Silk-Elastin-like Protein Polymers for Therapeutic Agent Delivery' ACS Nano, 2011, 5\(7\), pp 5374-5382 \(DOI: 10.1021/nn103585f\). Copyright 2011 American Chemical Society.
+
+[‘Alleged Data Manipulation in Nano Letters and ACS Nano from the Pease group’](http://www.chemistry-blog.com/2013/08/13/alleged-data-manipulation-in-nano-letters-and-acs-nano-from-the-pease-group/) Chemistry Blog article by Mitch, 13th August 2013
 
 ### Example: Removing cells inappropriately
 
