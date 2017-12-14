@@ -34,7 +34,7 @@ When post-processing images:
 
 You can check for image saturation and truncation using image lookup tables designed specifically for this purpose. These features are available in the microscope software you are using, as well as in image analysis software like Fiji \([Fiji is just ImageJ](http://fiji.sc/)\)
 
-Let's illustrate this with an example. This is a public domain image: “Thymus Gland” by Fritz Goro for Life magazine, 1962.
+Let's illustrate this with an example. This is a public domain image: “Thymus Gland” by Fritz Goro for Life magazine, 1962 \(Creative Commons\).
 
 Original image and image histogram:
 
