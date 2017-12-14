@@ -35,7 +35,7 @@ Rossner and Yamada “What’s in a picture? The temptation of image manipulatio
 
 Woo Suk Hwang, biomedical researcher.
 
-Woo Suk Hwang, _et al_. “Patient-specific embryonic stem cells derived from human SCNT blastocysts” _Science_, volume 308 pp.1777, 2005. **DOI: 0.1126/science.1112286**  
+Woo Suk Hwang, _et al_. “Patient-specific embryonic stem cells derived from human SCNT blastocysts” _Science_, volume 308 pp.1777, 2005. **DOI: 10.1126/science.1112286**  
 Image: Supplementary Figure S1 \(b & c\)
 
 ![](/assets/images/WooSukHwang_Science2005_SupplementaryFigure.jpg)
