@@ -37,8 +37,7 @@ Rossner and Yamada “What’s in a picture? The temptation of image manipulatio
 
 Woo Suk Hwang, biomedical researcher found responsible for multiple ethical breaches, including image integrity.
 
-Woo Suk Hwang, _et al_. “Patient-specific embryonic stem cells derived from human SCNT blastocysts” _Science_, volume 308 pp.1777, 2005. **DOI: 10.1126/science.1112286. **  
-
+Woo Suk Hwang, _et al_. “Patient-specific embryonic stem cells derived from human SCNT blastocysts” _Science_, volume 308 pp.1777, 2005. **DOI: 10.1126/science.1112286. **
 
 Image: Supplementary Figure S1 \(b & c\). Reproduced here with permission from The American Association for the Advancement of Science.
 
@@ -80,7 +79,7 @@ But, looking closer, we see two regions that appear to have been inappropriately
 
 Reprinted \(adapted\) with permission from Anumolu _et al._ 'Fabrication of Highly Uniform Nanoparticles from Recombinant Silk-Elastin-like Protein Polymers for Therapeutic Agent Delivery' ACS Nano, 2011, 5\(7\), pp 5374-5382 \(DOI: 10.1021/nn103585f\). Copyright 2011 American Chemical Society.
 
-[‘Alleged Data Manipulation in Nano Letters and ACS Nano from the Pease group’](http://www.chemistry-blog.com/2013/08/13/alleged-data-manipulation-in-nano-letters-and-acs-nano-from-the-pease-group/) Chemistry Blog article by Mitch, 13th August 2013
+This instance of image manipulation was  reported in a Chemistry Blog article by user 'Mitch' [‘Alleged Data Manipulation in Nano Letters and ACS Nano from the Pease group’](http://www.chemistry-blog.com/2013/08/13/alleged-data-manipulation-in-nano-letters-and-acs-nano-from-the-pease-group/), 13th August 2013.
 
 ### Example: Removing cells inappropriately
 
