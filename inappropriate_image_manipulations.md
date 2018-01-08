@@ -59,11 +59,17 @@ Rossner and Yamada “What’s in a picture? The temptation of image manipulatio
 
 Dipak K Das: **145** counts of data fabrication or falsification
 
-This image is not from one of Dr Das' papers, but was prepared by the investigating committee as an explanation of the types of image manipulation techniques they found.
+This image is not from one of Dr Das' papers, but was adapted from Wikimedia Commons content. The image diagrams below mimic the ones prepared by Dipak Das' investigating committee as an explanation of the types of image manipulation techniques found. Source: [https://ctmirror.org/2012/01/11/uconn-health-center-says-professor-falsified-data/](https://ctmirror.org/2012/01/11/uconn-health-center-says-professor-falsified-data/)
 
-![](/assets/images/DipakDas_WesternBlots.jpg)
+**Splicing parts of a Western blot image:**
 
-Source: [https://ctmirror.org/2012/01/11/uconn-health-center-says-professor-falsified-data/](https://ctmirror.org/2012/01/11/uconn-health-center-says-professor-falsified-data/)
+![](/assets/images/WesternBlot_splicing.jpg)
+
+**Pasting bands of Western blots:**
+
+![](/assets/images/WesternBlot_pasting.jpg)
+
+Images reproduced \(adapted\) from [this image](/this image) by Masur \(Own work\) \[CC0\], via Wikimedia Commons.
 
 ## INAPPROPRIATE: Removing parts of an image {removing-parts}
 
