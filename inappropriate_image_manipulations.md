@@ -11,7 +11,9 @@ Here is an overview of the major categories of inappropriate image manipulations
 
 ![](/assets/images/Bik_et_al.jpg)
 
-A 2016 study by Bik _et al._ \(Bik _et al._ “The prevalence of inappropriate image duplication in biomedical research publications” _mBio,_ volume 7\(3\), 2016. **DOI:10.1128/mBio.00809-16**\):
+A 2016 study\* by Bik _et al._ \(Bik _et al._ “The prevalence of inappropriate image duplication in biomedical research publications” _mBio,_ volume 7\(3\), 2016. **DOI:10.1128/mBio.00809-16**\):
+
+_\*This paper is accessible online via the university library electronic journals service._
 
 * Examined 20,621 images published
 * Across 40 different scientific journals
@@ -29,14 +31,16 @@ Int his example we see that the loading control has been duplicated - it can't r
 
 ![](/assets/images/RossnerYamada_ImageDuplication_WesternBlot.jpg)
 
-Rossner and Yamada “What’s in a picture? The temptation of image manipulation” _Journal of Cell Biology_, volume 166\(1\), 2004. **DOI: 10.1083/jcb.200406019**
+Rossner and Yamada “What’s in a picture? The temptation of image manipulation” _Journal of Cell Biology_, volume 166\(1\), 2004. **DOI: 10.1083/jcb.200406019**. Reproduced here with permission from Rockefeller University Press.
 
 ### Example: Woo Suk Hwang controversy
 
-Woo Suk Hwang, biomedical researcher.
+Woo Suk Hwang, biomedical researcher found responsible for multiple ethical breaches, including image integrity.
 
-Woo Suk Hwang, _et al_. “Patient-specific embryonic stem cells derived from human SCNT blastocysts” _Science_, volume 308 pp.1777, 2005. **DOI: 10.1126/science.1112286**  
-Image: Supplementary Figure S1 \(b & c\)
+Woo Suk Hwang, _et al_. “Patient-specific embryonic stem cells derived from human SCNT blastocysts” _Science_, volume 308 pp.1777, 2005. **DOI: 10.1126/science.1112286. **  
+
+
+Image: Supplementary Figure S1 \(b & c\). Reproduced here with permission from The American Association for the Advancement of Science.
 
 ![](/assets/images/WooSukHwang_Science2005_SupplementaryFigure.jpg)
 
@@ -50,7 +54,7 @@ Here multiple images have been spliced together to make it appear as though they
 
 ![](/assets/images/RossnerYamada_SplicingImagesTogether_BEFORE.jpg) ![](/assets/images/RossnerYamada_SplicingImagesTogether_AFTER.jpg)
 
-Rossner and Yamada “What’s in a picture? The temptation of image manipulation” _Journal of Cell Biology_, volume 166\(1\), 2004. **DOI: 10.1083/jcb.200406019**
+Rossner and Yamada “What’s in a picture? The temptation of image manipulation” _Journal of Cell Biology_, volume 166\(1\), 2004. **DOI: 10.1083/jcb.200406019**. Reproduced here with permission from Rockefeller University Press.
 
 ### Example: Dipak K. Das controversy
 
@@ -84,7 +88,7 @@ Here we see an image of some cells. A simple contrast adjustment reveals some ce
 
 ![](/assets/images/SarahCreed_RemovingCells_BEFORE.jpg) ![](/assets/images/SarahCreed_RemovingCells_AFTER.jpg)
 
-Images courtesy of Dr. Sarah Creed – altered deliberately for this training guide.
+Images reproduced here with the permission of the owner, Dr. Sarah Creed. These images have been altered deliberately for this training guide.
 
 ## INAPPROPRIATE: Modifying different parts of an image in different ways {#modifying-partts}
 
@@ -92,5 +96,5 @@ Images courtesy of Dr. Sarah Creed – altered deliberately for this training gu
 
 ![](/assets/images/RossnerYamada_ImmunogoldData.jpg)
 
-Rossner and Yamada “What’s in a picture? The temptation of image manipulation” _Journal of Cell Biology_, volume 166\(1\), 2004. **DOI: 10.1083/jcb.200406019**
+Rossner and Yamada “What’s in a picture? The temptation of image manipulation” _Journal of Cell Biology_, volume 166\(1\), 2004. **DOI: 10.1083/jcb.200406019**. Reproduced here with permission from Rockefeller University Press.
 
