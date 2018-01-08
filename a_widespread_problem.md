@@ -1,10 +1,10 @@
 # A widespread problem {#widespread-problem}
 
-In a 2012 survey \(Tavare “Scientific misconduct is worryingly prevalent in the UK, shows BMJ survey” _BMJ,_ 2012\) it was found that:
+In a 2012 survey\* \(Tavare “Scientific misconduct is worryingly prevalent in the UK, shows BMJ survey” _BMJ,_ 2012\) it was found that:
 
 * 13% of respondents were aware of colleagues “inappropriately adjusting, excluding, altering, or fabricating data” for publication.
 
-A separate review paper \(Fang, Steen, and Casadevall “Misconduct accounts for the majority of retracted scientific pubrlications” _PNAS,_ volume 109\(42\), 2012. DOI: 10.1073/pnas.1212247109\), looked at the reasons for retraction of over 2000 articles indexed by PubMed and found that:
+A separate review paper\* \(Fang, Steen, and Casadevall “Misconduct accounts for the majority of retracted scientific pubrlications” _PNAS,_ volume 109\(42\), 2012. DOI: 10.1073/pnas.1212247109\), looked at the reasons for retraction of over 2000 articles indexed by PubMed and found that:
 
 * 67.4% of retractions were due to academic misconduct
 * The percentage of scientific articles retracted because of fraud increased 10-fold between 1975 and 2012.
@@ -12,7 +12,9 @@ A separate review paper \(Fang, Steen, and Casadevall “Misconduct accounts for
 Regarding image manipulation specifically, Mike Rossner from the Journal of Cell Biology has said \(\[[Science ‘Bringing image manipulation to light’\]\(http://www.sciencemag.org/careers/2016/10/bringing-image-manipulation-light](http://www.sciencemag.org/careers/2016/10/bringing-image-manipulation-light)\)\)
 
 * Around 25% of accepted papers at the JCB still violate the journal’s guidelines
-* And in about 1% of papers, this would actually have changed the paper’s conclusions
+* And in about 1% of papers, this would actually have changed the paper’s conclusion
+
+_\*You can access these papers online via the university library electronic journals service._
 
 ## Impact of image manipulation in science
 
