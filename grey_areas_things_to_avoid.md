@@ -7,7 +7,7 @@ This section gives an overview of things to be careful of when acquiring and ana
 In most cases, cropping images is perfectly appropriate. The one question to keep in mind is: Would the viewer’s conclusions change if they knew what was outside the field of view?
 
 For instance, Dave is a pretty tough rockclimber:  
-![](/assets/images/Dave_Grampians_Dec2017_cropped_%28crompressed%29.jpg)But...he's not all that tough:![](/assets/images/Dave_Grampians_Dec2017_boxed_%28crompressed%29.jpg)Photographer: Catherin Laurens. Climber: David Singleton. Grampians Victoria, December 2017.
+![](/assets/images/Dave_Grampians_Dec2017_cropped_%28crompressed%29.jpg)But...he's not all that tough:![](/assets/images/Dave_Grampians_Dec2017_boxed_%28crompressed%29.jpg)Photographer: Catherin Laurens. Climber: David Singleton. Grampians Victoria, December 2017. Image reproduced here with permission.
 
 Remember, someone’s going to look at your results and use that information to draw their own conclusions.  
 Would those conclusions might reasonably have been different, had they seen all your data? And knew all the steps that had been done to it? If that might be true, then it might be misrepresentation.
